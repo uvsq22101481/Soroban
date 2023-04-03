@@ -1,5 +1,5 @@
 # Soroban
-TD3
+BI TD3
 Projet Soroban
 
 # Noms et n° étudiants:
