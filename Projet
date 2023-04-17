@@ -104,7 +104,7 @@ def simulation() -> None:
                     j = -1
                 #for l in range(9):
                   #  time.sleep(1)
-                    canvas.move(i[0], 0, j * 10)
+                    canvas.move(i[0], 0, j * 90)
 
             ######################################################################################## déplacement de l'unaire 1
             
